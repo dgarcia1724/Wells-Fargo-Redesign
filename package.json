@@ -1,0 +1,22 @@
+{
+  "name": "wells-fargo-redesign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgarcia1724/Wells-Fargo-Redesign.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgarcia1724/Wells-Fargo-Redesign/issues"
+  },
+  "homepage": "https://github.com/dgarcia1724/Wells-Fargo-Redesign#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.3"
+  }
+}
